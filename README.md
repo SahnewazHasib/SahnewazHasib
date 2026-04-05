@@ -54,7 +54,7 @@
 * GitHub: https://github.com/SahnewazHasib
 * Facebook:https://www.facebook.com/share/1A6ZSKkxma/
 * Instagram:https://www.instagram.com/md.shahnewaz__?igsh=dHBkeHNxZ3lmeGdm
-* WhatsApp:wa.me/01406197655
+* WhatsApp: https://wa.me/01406197655
 * Linkedin: https://www.linkedin.com/in/shahnewaz-khan-894650286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
