@@ -19,7 +19,7 @@
 ## 🧠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,linux,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,linux,git,vscode,c,java,c#" />
 </p>
 
 ---
